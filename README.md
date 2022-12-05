@@ -1,2 +1,1 @@
-# Scripts
-a
+game.Workspace.Gravity = 50
